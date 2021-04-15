@@ -41,8 +41,8 @@ const definitions: TileDefinition[] = [
   },
   {
     name: "vrcphotobuddy",
-    title: "VRC Photo Buddy",
-    description: "Automatically upload photos from VRChat",
+    title: "VR Photo Buddy",
+    description: "Automatically upload photos from VR games",
     url: config.VRPHOTOBUDDY,
     color: "rgb(0, 7, 45)",
   },
